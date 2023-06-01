@@ -34,7 +34,7 @@ export const BtnAdd = styled.button`
   align-items: center;
   justify-content: center;
   height: 35px;
-  width: 120px;
+  width: 130px;
   gap: 3px;
   padding: 7px;
   border: none;
